@@ -1,0 +1,3 @@
+E:/pws/csubstr/cmake-build-debug/CMakeFiles/csubstr.dir
+E:/pws/csubstr/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/pws/csubstr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
